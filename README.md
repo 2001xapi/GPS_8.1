@@ -50,7 +50,7 @@ En aquesta part el programa indica que s'executarà en la versió 3.9 de python.
         
  Aqui s'indica que tots els requisits, llibreries externes que es puguin fer servir durant la prova és guardaran en un fitxer de text anomenat requirements.txt.
  
- #Lint with flake8
+ # Lint with flake8
  
     - name: Lint with flake8
       run: |
